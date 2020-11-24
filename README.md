@@ -1,7 +1,6 @@
 # Airbnb Clone
 # https://airbnb-clone-sa.netlify.app/
-Building Amazon-clone Application USING React, Flexbox, react-data-range
-
+Building Amazon-clone Application USING `React`, `Flexbox`, `react-data-range`
 
 
 
